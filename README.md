@@ -22,4 +22,6 @@ python gradesculptor.py --filename submissions.csv --id-column 'Submission ID' -
 
 ## Requirements
 
-[`pandas`](https://pandas.pydata.org/)
+* [`pandas`](https://pandas.pydata.org/)
+
+Can be installed in your environment with `pip install -r requirements.txt`.
